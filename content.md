@@ -12,7 +12,6 @@ Have you found yourself in a curious situation where you get a git message along
 ## What is happening?
 
 
-
 ## How do I avoid this?
 
 
