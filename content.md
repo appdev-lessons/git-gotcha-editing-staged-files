@@ -42,23 +42,23 @@ Let's make sure you read the above sections with a few quick quiz questions:
 - Check all that are true:
 - The "Source Control" and "File Explorer" tabs are the same and I can use both to make edits to my open files.
   - Not quite. Re-read the previous sections.
-- The "Source Control" is used to navigate between open files and make edits
+- The "Source Control" is used to navigate between open files and make edits.
   - Not quite. Re-read the previous sections.
-- The "File Explorer" is where I make git commits and push the changes
+- The "File Explorer" is where I make git commits and push the changes.
   - Not quite. Re-read the previous sections.
 - The "File Explorer" tab is how I open files and make changes to them.
   - Yes! And when you want to make another commit, switch to the "Source Control" tab, make the commit, push it, and switch back to the "File Explorer" tab again.
-- The Source Control tab is how I make git commits and push them to publish the commits on GitHub
+- The "Source Control" tab is how I make git commits and push them to publish the commits on GitHub.
   - Yes! And I am always sure to switch back the "File Explorer" tab after I make my commits.
-- I always switch back to the "File Explorer" tab when I am not making git commits
+- I always switch back to the "File Explorer" tab when I am not making git commits.
   - Yes!
 {: .choose_all #source_vs_explorer title="Source Control vs. File Explorer tabs" points="3" answer="[4,5,6]" }
 
 
 - When I finish making commits and syncing in the "Source Control" tab, I should...
-- remain on this tab so I can continue editing my files
+- remain on this tab so I can continue editing my files.
   - Not quite. Re-read the previous sections.
-- close my codespace
+- close my codespace.
   - Not quite. Re-read the previous sections.
 - switch back to the "File Explorer" tab.
   - Yes! And when you want to make another commit, switch to the "Source Control" tab, make the commit, push it, and switch back to the "File Explorer" tab again.
