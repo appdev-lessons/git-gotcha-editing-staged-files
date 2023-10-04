@@ -4,7 +4,7 @@
 
 Even if you have not experienced these difficulties, read this lesson and answer the quiz questions to get credit. 
 
-Before you read this lesson, quickly review our guide on [making git commits and pushing changes](https://learn.firstdraft.com/lessons/106-hello-world#git-commit-and-push).
+Before you read this lesson, quickly review our guide on [making git commits and pushing changes](https://learn.firstdraft.com/lessons/50-git-commit-and-push).
 </div>
 
 Have you found yourself in a curious situation where you get a git message along the lines of:
